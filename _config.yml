@@ -1,9 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
 
+title: LayerizeJS
+description: A framework to mange stacked data layers like postgresql, redis and elasticsearch.
+
 search_enabled: true
 
 aux_links:
-    "LayerizeJS":
+    "LayerizeJS on Github":
       - "//github.com/LayerizeJS/layerize"
 
 color_scheme: nil
