@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+
+search_enabled: true
+
+aux_links:
+    "LayerizeJS":
+      - "//github.com/LayerizeJS/layerize"
+
+color_scheme: nil
